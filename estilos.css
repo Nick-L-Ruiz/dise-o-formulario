@@ -1,0 +1,82 @@
+#caja{
+	background: #3d3e3e;
+	margin-top: 20px;
+	width: 420px;
+	height: 600px;
+	border-radius: 15px;
+}
+
+
+.cabecera i{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	position: relative;
+	left: 45%;
+	font-size: 35px;
+	color: #2bbbad;
+}
+
+
+.formulario{
+	position: relative;
+	left: 10%;
+	color: white;
+	width: 650px;
+}
+
+.botones #signIn,#register{
+	margin-bottom: 13px;
+	position: relative;
+	left: 18%;
+	width: 260px;
+}
+
+
+.botones #singIn{
+	
+	color: black;
+}
+
+.botones #register{
+	background-color: transparent;
+	border: 1px solid white;
+}
+
+.texto{
+	color: white;
+	position: relative;
+	left: 41.5%;
+	font-size: 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.redes{
+	color: white;
+	font-size: 25px;
+	position: relative;
+	margin-top: 10px;
+	left: 38%;
+	display: inline-flex;
+}
+
+
+.redes #facebook,#googlePlus,#twitter{
+	margin-right: 20px;
+}
+
+
+.redes #facebook:hover{
+	color:#46639f;
+	
+}
+
+.redes #googlePlus:hover{
+	color:#d71617;
+	
+}
+
+.redes #twitter:hover{
+	color:#0ab2e6;
+
+}
